@@ -11,7 +11,6 @@ function App() {
         <Search />
       </header>
       <main>
-        {" "}
         <Contacts />
       </main>
     </div>
