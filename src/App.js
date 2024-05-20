@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import Search from "./Search";
-import axios from "axios";
+
 import "./App.css";
 
 function App() {
