@@ -4,7 +4,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 95vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,21 +13,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 main {
   background: #282c34;
   color: aliceblue;
+  min-height: 20vh;
+  font-size: 24px;
 }
 .Contacts a {
   text-decoration: none;
